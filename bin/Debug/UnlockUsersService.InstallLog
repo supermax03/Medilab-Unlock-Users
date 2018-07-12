@@ -1,0 +1,42 @@
+﻿Desinstalando ensamblado 'C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.InstallLog
+   assemblypath = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe
+Quitando el origen de EventLog UnlockUsersService.
+Se está quitando el servicio UnlockUsersService del sistema...
+El servicio UnlockUsersService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.InstallLog
+   assemblypath = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe
+Instalando el servicio UnlockUsersService...
+El servicio UnlockUsersService se ha instalado correctamente.
+Creando el origen de EventLog UnlockUsersService en el registro Application...
+Confirmando ensamblado 'C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.InstallLog
+   assemblypath = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe
+Desinstalando ensamblado 'C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.InstallLog
+   assemblypath = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe
+Quitando el origen de EventLog UnlockUsersService.
+Se está quitando el servicio UnlockUsersService del sistema...
+El servicio UnlockUsersService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.InstallLog
+   assemblypath = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe
+Instalando el servicio UnlockUsersService...
+El servicio UnlockUsersService se ha instalado correctamente.
+Creando el origen de EventLog UnlockUsersService en el registro Application...
+Confirmando ensamblado 'C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.InstallLog
+   assemblypath = C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe

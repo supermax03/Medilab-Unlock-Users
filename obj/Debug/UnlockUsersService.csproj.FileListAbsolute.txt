@@ -1,0 +1,11 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\UnlockUsersService.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\obj\Debug\UnlockUsersService.ProjectInstaller.resources
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\obj\Debug\UnlockUsersService.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\obj\Debug\UnlockUsersService.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\UnlockUsersService\UnlockUsersService\obj\Debug\UnlockUsersService.pdb
